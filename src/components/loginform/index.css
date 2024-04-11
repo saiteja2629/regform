@@ -1,0 +1,122 @@
+.login-bg-container {
+  background-image: url('https://img.freepik.com/free-photo/html-css-collage-concept-with-hacker_23-2150061984.jpg?size=626&ext=jpg&ga=GA1.1.1525348103.1712122646&semt=sph');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff50;
+  border-radius: 10px;
+  border: 1px solid white;
+}
+.login-card-container{
+  width:60%;
+  height: 70vh;
+  background-color: #ffffff50;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.login-here {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+   width: 55%;
+  height: 70vh;
+}
+.login-here h1 {
+  color: rgb(227, 138, 14);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+  padding: 30px;
+}
+
+.login-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.login-container label {
+  margin-bottom: 4px;
+  font-size: 25px;
+  font-weight: 900;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color:rgb(187, 28, 28);
+}
+ .login-container input {
+  width: 90%;
+  height: 28px;
+  padding: 5px;
+  border-radius: 6px;
+}
+form div button {
+ margin: 10px 0;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100px;
+  color: blueviolet;
+  background-color: beige;
+}
+
+.signup{
+    width:45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+.signup h3 {
+  color: rgb(141, 22, 22);
+  margin-bottom: 15px;
+  font-size: 22px;
+  
+}
+.signup button{
+    background-color: rgb(105, 118, 53);
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 8px;
+
+}
+.sign-up{
+  border:1px solid rgb(67, 65, 65);
+  padding: 7px;
+  font-size: 18px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 500;
+  background-color: blanchedalmond;
+  border-radius: 10px;
+  text-decoration: none;
+  color: blue;
+
+}
+.about{
+  color:blanchedalmond;
+}

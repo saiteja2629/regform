@@ -1,0 +1,23 @@
+
+.about-content-container{
+    width:60%;
+    min-height: 60vh;
+    padding: 20px;
+    background-color: #556d8380;
+    margin-left: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+  
+}
+
+
+.about{
+    color: rgb(3, 3, 2);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+.benfits{
+    text-transform: lowercase;
+    margin-top: 30px;
+}
