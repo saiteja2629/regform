@@ -12,7 +12,7 @@
 
 
 .about{
-    color: rgb(3, 3, 2);
+    color: rgb(103, 2, 34);
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     font-weight: 700;
@@ -20,4 +20,7 @@
 .benfits{
     text-transform: lowercase;
     margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: rgb(152, 90, 9);
 }

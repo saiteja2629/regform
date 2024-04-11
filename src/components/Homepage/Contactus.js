@@ -13,8 +13,8 @@ const Contactus = () => {
       <div className="contactus-content-container">
         <h3>
           
-          Address: House No: 26/29 , Vijayawada , Singh Nagar, Vijayawada ,
-                       Andhra Pradesh , Pincode:- 520015
+          Address: House No: 26/29 , Vijayawada , Singh Nagar, Vijayawada ,<br/>
+                       Andhra Pradesh , Pincode:- 520015 <br/>
                            Phone No: +91789456123
          
           
